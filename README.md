@@ -1,1 +1,1 @@
-# Image-Calssification-App-using-DNN
+# Image-Calssifying-App-using-DNN
