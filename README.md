@@ -61,8 +61,12 @@ Contributing
 Contributions to the app are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 
-## DenseNet_121.caffemodel
+## Model Weights
 
-Since the file has a large size, you can use the link below to download it: 
+The pre-trained model weights file, DenseNet_121.caffemodel, is not directly included in this repository due to its large size. Instead, it is hosted externally on Dropbox.
 
-[Download Large File](https://www.dropbox.com/scl/fi/67k82raspopx841mj87ep/DenseNet_121.caffemodel?rlkey=ccvhp234v5euqnz3c6ftdz5bg&dl=0)
+You can download the model weights file from the following link:
+[Download DenseNet_121.caffemodel](https://www.dropbox.com/s/your_dropbox_link_here/DenseNet_121.caffemodel?dl=0)
+
+
+
